@@ -1,0 +1,15 @@
+@import "../../../atlanta/assets/css/style.min.css";
+
+/* Your CSS code goes here
+-------------------------------------- */
+span.icon-bar{
+    background-color:black;
+}
+a.button.close-btn{
+        float: right;
+        top: -11px;
+}
+h3.popup-headline{
+    float:left;
+    font-size:25px;
+}

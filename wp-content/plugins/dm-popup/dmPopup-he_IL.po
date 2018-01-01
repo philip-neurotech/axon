@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dm popup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Jun 07 2016 13:16:29 GMT+0300 (Jerusalem Daylight "
+"Time)\n"
+"PO-Revision-Date: Wed Nov 30 2016 13:25:04 GMT+0200 (שעון רגיל ירושלים)\n"
+"Last-Translator: נועם <noam@digitalmarket.co.il>\n"
+"Language-Team: \n"
+"Language: Hebrew\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: he_IL\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Author of the plugin
+msgid "DigitalMarket"
+msgstr ""
+
+#: /dm-popup.php:177
+msgid "Social settings"
+msgstr ""
+
+#. Name of the plugin
+msgid "Dm popup"
+msgstr "פופ-אפ דיגיטל מרקט"
+
+#. URI of the plugin
+msgid "http://digitalmarket.co.il"
+msgstr "http://digitalmarket.co.il"
+
+#. Description of the plugin
+msgid "Contact us popup. For wordpress 4.2.0+"
+msgstr "פופ-אפ צור-קשר. מותאם לגרסאות וורדפרס 4.2.0 ומעלה."
+
+#: /dm-popup.php:21
+msgid "popup settings"
+msgstr "הגדרות פופ-אפ"
+
+#: /dm-popup.php:32 /dm-popup.php:130
+msgid "Display"
+msgstr "להציג"
+
+#: /dm-popup.php:45
+msgid "Shortcode"
+msgstr "שורטקוד"
+
+#: /dm-popup.php:55 /dm-popup.php:60
+msgid "Headline"
+msgstr "כותרת"
+
+#: /dm-popup.php:73 /dm-popup.php:156
+msgid "botton bg color"
+msgstr "צבע רקע לכפתור"
+
+#: /dm-popup.php:85
+msgid "botton text color"
+msgstr "צבע טקסט בכפתור"
+
+#: /dm-popup.php:97
+msgid "botton background color hover"
+msgstr "צבע רקע לכפתור במעבר עכבר"
+
+#: /dm-popup.php:109
+msgid "botton text color hover"
+msgstr "צבע טקסט לכפתור במעבר עכבר"
+
+#: /dm-popup.php:119
+msgid "Click to call settings"
+msgstr "הגדרות 'קליק להתקשרות'"
+
+#: /dm-popup.php:143
+msgid "phone"
+msgstr "מספר הטלפון"
+
+#: /dm-popup.php:168
+msgid "Icon"
+msgstr "טעינת אייקון"
+
+#: /dm-popup.php:170
+msgid "If you want to change default icon"
+msgstr "אם יש צורך להחליף את אייקון ברירת המחדל"
+
+#: /dm-popup.php:218
+msgid "Contact Us"
+msgstr "צור עמנו קשר"
+
+#: /dm-popup.php:271
+msgid "Click to call"
+msgstr "קליק להתקשרות"

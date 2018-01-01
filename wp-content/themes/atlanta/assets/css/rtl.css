@@ -1,0 +1,289 @@
+/*! atlanta - v4.0.11 - 19-11-2017 */
+.rtl {
+  /* Large desktop */
+  /* Landscape phone to portrait tablet */
+}
+.rtl .square-item {
+  float: right;
+}
+.rtl .entry-meta:after,
+.rtl .sd-title:after,
+.rtl .title-comments:after,
+.rtl .title-respond:after,
+.rtl .pb-widget-title:after,
+.rtl .widget-title:after {
+  left: 0;
+  right: auto;
+}
+.rtl .pojo-loadmore-wrap .pojo-loading:before,
+.rtl .pojo-loading-wrap .pojo-loading:before {
+  margin-left: 5px;
+  margin-right: 0;
+}
+.rtl #header.logo-right .logo,
+.rtl .sticky-header.logo-right .logo {
+  float: left;
+}
+.rtl #header.logo-right .nav-main,
+.rtl .sticky-header.logo-right .nav-main {
+  float: right;
+}
+.rtl #header.logo-left .logo,
+.rtl .sticky-header.logo-left .logo {
+  float: right;
+}
+.rtl #header.logo-left .nav-main,
+.rtl .sticky-header.logo-left .nav-main {
+  float: left;
+}
+.rtl .sf-menu li {
+  float: right;
+}
+.rtl .sf-menu li:hover ul,
+.rtl .sf-menu li.sfHover ul {
+  left: auto;
+  right: 0;
+}
+.rtl ul.sf-menu li li:hover ul,
+.rtl ul.sf-menu li li.sfHover ul,
+.rtl ul.sf-menu li li li:hover ul,
+.rtl ul.sf-menu li li li.sfHover ul {
+  left: auto;
+  right: 15em;
+  /* match ul width */
+}
+.rtl #primary #content #main.sidebar-left {
+  float: left;
+}
+.rtl #primary #content #main .entry-meta .read-more {
+  float: left;
+  margin-right: 0;
+  margin-left: 6px;
+}
+.rtl .media .pull-left {
+  margin-right: 0;
+  margin-left: 15px;
+}
+.rtl .single-gallery-content-left .gallery-thumbnail {
+  float: left;
+}
+.rtl .single-gallery-content-left .gallery-content {
+  float: right;
+}
+.rtl #sidebar .menu li,
+.rtl #sidebar .sub-menu li,
+.rtl #sidebar .sub-page-menu li {
+  list-style: none;
+}
+.rtl #sidebar .menu li a,
+.rtl #sidebar .sub-menu li a,
+.rtl #sidebar .sub-page-menu li a {
+  background-image: url(../images/ul-rtl.png);
+  background-position: 95% center;
+  padding: 1em 10% 1em 0;
+  border-width: 0 1px 0 0;
+}
+.rtl #sidebar .menu li ul,
+.rtl #sidebar .sub-menu li ul,
+.rtl #sidebar .sub-page-menu li ul {
+  padding: 0;
+}
+.rtl #sidebar ul li,
+.rtl #sidebar-footer ul li {
+  list-style-image: url(../images/ul-rtl.png);
+}
+.rtl #sidebar ul li ul,
+.rtl #sidebar-footer ul li ul {
+  padding: 0 20px 0 0;
+}
+.rtl #sidebar .recent-post.small-thumbnail .pull-left,
+.rtl #sidebar-footer .recent-post.small-thumbnail .pull-left {
+  margin-right: 0;
+  margin-left: 10px;
+}
+.rtl .opening-hours-wrap .day-row .day-title {
+  float: right;
+}
+.rtl .opening-hours-wrap .day-row .day-time {
+  float: left;
+  text-align: left;
+}
+.rtl #outer-slidebar {
+  right: 0;
+  left: auto;
+}
+.rtl #outer-slidebar #outer-slidebar-toggle {
+  right: auto;
+  left: 0;
+}
+.rtl #outer-slidebar #outer-slidebar-toggle a {
+  border-right-color: transparent;
+  border-width: 0 0 50px 50px;
+  right: auto;
+  left: 0;
+}
+.rtl #outer-slidebar #outer-slidebar-toggle a:after {
+  right: 32px;
+  left: auto;
+}
+.rtl .form-search input {
+  left: auto;
+  right: 0;
+  padding: 0 9px 0 0;
+}
+.rtl .form-search button {
+  left: 0;
+  right: auto;
+}
+.rtl .commentlist ul li {
+  padding-right: 20px;
+  padding-left: 0;
+}
+.rtl .commentlist .comment-reply-link:before {
+  margin-right: 0;
+  margin-left: 5px;
+}
+.rtl .nav-main .pojo-menu-cart li.cart-content a img {
+  float: left;
+  margin-right: 10px;
+  margin-left: 0;
+}
+.rtl .nav-main .pojo-menu-cart li.cart-checkout .cart-link {
+  float: right;
+}
+.rtl .nav-main .pojo-menu-cart li.cart-checkout .checkout-link {
+  float: left;
+}
+.rtl .pull-left {
+  float: right !important;
+}
+.rtl .pull-right {
+  float: left !important;
+}
+.rtl .navbar-toggle {
+  float: left;
+}
+.rtl .col-sm-1,
+.rtl .col-sm-2,
+.rtl .col-sm-3,
+.rtl .col-sm-4,
+.rtl .col-sm-5,
+.rtl .col-sm-6,
+.rtl .col-sm-7,
+.rtl .col-sm-8,
+.rtl .col-sm-9,
+.rtl .col-sm-10,
+.rtl .col-sm-11,
+.rtl .col-md-1,
+.rtl .col-md-2,
+.rtl .col-md-3,
+.rtl .col-md-4,
+.rtl .col-md-5,
+.rtl .col-md-6,
+.rtl .col-md-7,
+.rtl .col-md-8,
+.rtl .col-md-9,
+.rtl .col-md-10,
+.rtl .col-md-11 {
+  float: right;
+}
+@media (min-width: 980px) {
+  .rtl #primary #content #main.sidebar-right {
+    padding-right: 15px;
+    padding-left: 29px;
+    border-left-width: 1px;
+    border-right: none;
+  }
+  .rtl #primary #content #main.sidebar-left {
+    padding-left: 0;
+    padding-right: 29px;
+    border-right-width: 1px;
+    border-left: none;
+  }
+}
+@media (max-width: 767px) {
+  .rtl .col-sm-1,
+  .rtl .col-sm-2,
+  .rtl .col-sm-3,
+  .rtl .col-sm-4,
+  .rtl .col-sm-5,
+  .rtl .col-sm-6,
+  .rtl .col-sm-7,
+  .rtl .col-sm-8,
+  .rtl .col-sm-9,
+  .rtl .col-sm-10,
+  .rtl .col-sm-11,
+  .rtl .col-md-1,
+  .rtl .col-md-2,
+  .rtl .col-md-3,
+  .rtl .col-md-4,
+  .rtl .col-md-5,
+  .rtl .col-md-6,
+  .rtl .col-md-7,
+  .rtl .col-md-8,
+  .rtl .col-md-9,
+  .rtl .col-md-10,
+  .rtl .col-md-11 {
+    float: none;
+  }
+  .rtl #header.logo-right .logo,
+  .rtl .sticky-header.logo-right .logo {
+    float: none;
+  }
+  .rtl #header.logo-right .logo .logo-img,
+  .rtl .sticky-header.logo-right .logo .logo-img,
+  .rtl #header.logo-right .logo .logo-text,
+  .rtl .sticky-header.logo-right .logo .logo-text {
+    float: left;
+  }
+  .rtl #header.logo-right .logo .navbar-toggle,
+  .rtl .sticky-header.logo-right .logo .navbar-toggle {
+    float: right;
+  }
+  .rtl #header.logo-right .nav-main,
+  .rtl .sticky-header.logo-right .nav-main {
+    float: none;
+  }
+  .rtl #header.logo-left .logo,
+  .rtl .sticky-header.logo-left .logo {
+    float: none;
+  }
+  .rtl #header.logo-left .logo .logo-img,
+  .rtl .sticky-header.logo-left .logo .logo-img,
+  .rtl #header.logo-left .logo .logo-text,
+  .rtl .sticky-header.logo-left .logo .logo-text {
+    float: right;
+  }
+  .rtl #header.logo-left .logo .navbar-toggle,
+  .rtl .sticky-header.logo-left .logo .navbar-toggle {
+    float: left;
+  }
+  .rtl #header.logo-left .nav-main,
+  .rtl .sticky-header.logo-left .nav-main {
+    float: none;
+  }
+  .rtl #primary #content #main.sidebar-left,
+  .rtl #primary #content #main.sidebar-right {
+    float: none;
+  }
+  .rtl .single-gallery-content-left .gallery-thumbnail,
+  .rtl .single-gallery-content-left .gallery-content {
+    float: none;
+  }
+  .rtl .alignright,
+  .rtl .alignleft {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .rtl .media .pull-left,
+  .rtl .media .pull-right {
+    float: none !important;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+  }
+  .rtl #copyright {
+    text-align: center;
+  }
+}
