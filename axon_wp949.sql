@@ -1,4 +1,4 @@
--- phpMyAdmin SQL Dump
+﻿-- phpMyAdmin SQL Dump
 -- version 4.7.3
 -- https://www.phpmyadmin.net/
 --
@@ -64,24 +64,24 @@ CREATE TABLE `wpa0_cf7dbplugin_submits` (
 
 INSERT INTO `wpa0_cf7dbplugin_submits` (`submit_time`, `form_name`, `field_name`, `field_value`, `field_order`, `file`) VALUES
 ('1514463615.8796', 'Contat US', '&nbsp;', 'dfsdfsdfsdfsdf', 0, NULL),
-('1514463615.8796', 'Contat US', 'Page URL', 'https://axon.digitalim.co.il/', 1, NULL),
+('1514463615.8796', 'Contat US', 'Page URL', 'https://beta-content.axon-school.com/', 1, NULL),
 ('1514463615.8796', 'Contat US', 'User Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36', 2, NULL),
 ('1514463615.8796', 'Contat US', 'Submitted Login', 'DigitalMarket', 9999, NULL),
 ('1514463615.8796', 'Contat US', 'Submitted From', '31.168.212.208', 10000, NULL),
 ('1514706092.8688', 'Contat US', '&nbsp;', 'HI', 0, NULL),
-('1514706092.8688', 'Contat US', 'Page URL', 'https://axon.digitalim.co.il/discover/using-the-system-in-a-school-setting/', 1, NULL),
+('1514706092.8688', 'Contat US', 'Page URL', 'https://beta-content.axon-school.com/discover/using-the-system-in-a-school-setting/', 1, NULL),
 ('1514706092.8688', 'Contat US', 'User Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36', 2, NULL),
 ('1514706092.8688', 'Contat US', 'Submitted From', '62.219.123.147', 10000, NULL),
 ('1514706379.9030', 'Contat US', '&nbsp;', 'Yo', 0, NULL),
-('1514706379.9030', 'Contat US', 'Page URL', 'https://axon.digitalim.co.il/discover/axon-school-general-overview/', 1, NULL),
+('1514706379.9030', 'Contat US', 'Page URL', 'https://beta-content.axon-school.com/discover/axon-school-general-overview/', 1, NULL),
 ('1514706379.9030', 'Contat US', 'User Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36', 2, NULL),
 ('1514706379.9030', 'Contat US', 'Submitted From', '62.219.123.147', 10000, NULL),
 ('1514706508.0067', 'Contat US', '&nbsp;', 'Yoyo', 0, NULL),
-('1514706508.0067', 'Contat US', 'Page URL', 'https://axon.digitalim.co.il/', 1, NULL),
+('1514706508.0067', 'Contat US', 'Page URL', 'https://beta-content.axon-school.com/', 1, NULL),
 ('1514706508.0067', 'Contat US', 'User Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36', 2, NULL),
 ('1514706508.0067', 'Contat US', 'Submitted From', '62.219.123.147', 10000, NULL),
 ('1514797426.6912', 'Contat US', '&nbsp;', 'I wish I was Uri', 0, NULL),
-('1514797426.6912', 'Contat US', 'Page URL', 'https://axon.digitalim.co.il/discover/the-axon-school-tm-system/', 1, NULL),
+('1514797426.6912', 'Contat US', 'Page URL', 'https://beta-content.axon-school.com/discover/the-axon-school-tm-system/', 1, NULL),
 ('1514797426.6912', 'Contat US', 'User Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36', 2, NULL),
 ('1514797426.6912', 'Contat US', 'Submitted From', '62.219.123.147', 10000, NULL);
 
@@ -225,8 +225,8 @@ CREATE TABLE `wpa0_options` (
 --
 
 INSERT INTO `wpa0_options` (`option_id`, `option_name`, `option_value`, `autoload`) VALUES
-(1, 'siteurl', 'https://axon.digitalim.co.il', 'yes'),
-(2, 'home', 'https://axon.digitalim.co.il', 'yes'),
+(1, 'siteurl', 'https://beta-content.axon-school.com ', 'yes'),
+(2, 'home', 'https://beta-content.axon-school.com ', 'yes'),
 (3, 'blogname', 'axon', 'yes'),
 (4, 'blogdescription', 'tools which produce attentional profiles', 'yes'),
 (5, 'users_can_register', '0', 'yes'),
